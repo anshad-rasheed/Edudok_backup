@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "title": "Attendance",
+    "icon": "attendance.svg",
+    "destination": "Attendance"
+  },
+  {
+    "id": 1,
+    "title": "GK Quiz",
+    "icon": "gk_quiz.svg",
+    "destination": "GK_Quiz"
+  },
+  {
+    "id": 2,
+    "title": "Assignment",
+    "icon": "assignment.svg",
+    "destination": "Assignment"
+  },
+  {
+    "id": 3,
+    "title": "Edu-Channel",
+    "icon": "edu_channel.svg",
+    "destination": "Edu_Channel"
+  },
+  {
+    "id": 4,
+    "title": "Videos",
+    "icon": "videos.svg",
+    "destination": "Videos"
+  },
+  {
+    "id": 5,
+    "title": "My Downloads",
+    "icon": "my_downloads.svg",
+    "destination": "My_Downloads"
+  },
+  {
+    "id": 6,
+    "title": "Events",
+    "icon": "events.svg",
+    "destination": "Events"
+  },
+  {
+    "id": 7,
+    "title": "Holidays",
+    "icon": "holidays.svg",
+    "destination": "Holidays"
+  },
+  {
+    "id": 8,
+    "title": "Know Us",
+    "icon": "know_us.svg",
+    "destination": "Know_Us"
+  }
+]
